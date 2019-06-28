@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MVC_Example.Models.Notes>
+
+@{
+    ViewData["Title"] = "Notes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="titleTop">
+    <p class="h4">N O T L A R I M</p>
+    <a asp-area="" asp-controller="Home" asp-action="Notes">N o t l a r ı m</a> |
+    <a asp-area="" asp-controller="Home" asp-action="Add">E k l e</a>
+</div>
+
+@foreach (var item in Model)
+{
+    <div class="card box">
+        <div class="card-body">
+            <h5 class="card-title"> @Html.DisplayFor(modelItem => item.subject)</h5>
+            <h6 class="card-subtitle mb-2 text-muted"> @Html.DisplayFor(modelItem => item.date_time)</h6>
+            <p class="card-text">@Html.DisplayFor(modelItem => item.description)...</p>
+            @Html.ActionLink("Görüntüle", "Detail", new { id = item.id })
+            @Html.ActionLink("Notu Sil", "Del", new { id = item.id })
+        </div>
+    </div>
+    <br />
+}

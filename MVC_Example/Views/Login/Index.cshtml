@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MVC_Example.Models.Notes>
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+<div>
+    <form name="form1" asp-action="Login" method="post">
+
+        <h4>L O G I N</h4>
+
+        <div class="form-group">
+            <label for="exampleInputEmail1">Kullanıcı Adı</label>
+            <input id="username" name="username" class="form-control" aria-describedby="emailHelp" placeholder="kullanıcı adınızı giriniz...">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputEmail1">Şifre</label>
+            <input id="password" name="password" class="form-control" type="password" aria-describedby="emailHelp" placeholder="şifrenizi giriniz...">
+        </div>
+        <br />
+        <small id="emailHelp" class="form-text text-muted">hesap bilgilerinizi giriniz.</small>
+        <br />
+        <br />
+
+
+        <button type="submit" class="btn btn-warning">G İ R İ Ş</button>
+    </form>
+</div>

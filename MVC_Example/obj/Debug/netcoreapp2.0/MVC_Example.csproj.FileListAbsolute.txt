@@ -1,0 +1,22 @@
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.deps.json
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.runtimeconfig.json
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.runtimeconfig.dev.json
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.dll
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.pdb
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.csprojAssemblyReference.cache
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.csproj.CoreCompileInputs.cache
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.AssemblyInfoInputs.cache
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.AssemblyInfo.cs
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.dll
+C:\Users\Dell-07\source\repos\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.runtimeconfig.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.runtimeconfig.dev.json
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\bin\Debug\netcoreapp2.0\MVC_Example.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.csproj.CoreCompileInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Academy\Okul\Sunucu Yazılım Teknolojisi\Final\MVC\MVC_Example\MVC_Example\obj\Debug\netcoreapp2.0\MVC_Example.pdb

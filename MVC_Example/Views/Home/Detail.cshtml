@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVC_Example.Models.Notes>
+
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="titleTop">
+    <p class="h4">D E T A Y</p>
+    <a asp-area="" asp-controller="Home" asp-action="Notes">N o t l a r ı m</a> |
+    <a asp-area="" asp-controller="Home" asp-action="Add">E k l e</a>
+</div>
+
+<div>
+    <form name="form1" asp-action="Edit" method="post">
+
+        <input id="id" name="id" value="@ViewBag.id" style="display:none"/>
+
+        <div class="form-group">
+            <label for="exampleInputEmail1">Başlık</label>
+            <input id="subject" name="subject" class="form-control" aria-describedby="emailHelp" placeholder="başlık..." value="@ViewBag.subject">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleFormControlTextarea1">Notunuz</label>
+            <textarea id="description" name="description" class="form-control" rows="5">@ViewBag.description</textarea>
+        </div>
+
+        <button type="submit" class="btn btn-warning">K A Y D E T</button>
+    </form>
+</div>
